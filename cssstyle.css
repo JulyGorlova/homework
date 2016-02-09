@@ -1,0 +1,98 @@
+* {
+
+	margin: 0 auto;
+}
+
+
+.perv {border-bottom: 1px solid grey;
+	   padding: 15px 50px 10px 50px;
+}
+
+body {
+	width: 650px; 
+	height: 800px;
+	background-color: grey;
+}
+
+.maim {
+	margin: 0 auto;
+	box-shadow: 5px 15px black;
+	background-color: white;
+}
+
+ul {
+
+	line-height:1.5;
+}
+
+.bz1 {
+
+	background-color: white;
+	box-shadow: 5px 5px #e5c818;
+	padding: 15px 50px 10px 50px;
+	font-size: 20px;	
+	line-height:1.5;
+}
+
+.abz2 {
+	background-color: white;
+	border-bottom:1px;
+	box-shadow:5px 15px black;
+	padding:10px 50px 2px 50px;		
+	font-size:20px;
+	line-height:1.5;
+}
+
+.abz3 {
+	background-color: white;
+	box-shadow: 5px 15px black;	
+	font-size: 20px;	
+	line-height: 1px;
+	padding: 10px 50px 2px 50px;
+}
+
+.abz4 {
+
+	background-color: white; 
+	box-shadow: 5px 15px black;
+	padding: 10px 50px 50px 50px;
+	font-size: 20px;
+	line-height: 1;
+}
+
+.kartinka {
+
+
+	text-align:center;
+	background-color: white;
+}
+
+.ab3 {
+
+	margin-top: 0px;
+	
+	line-height: 1;
+	margin-bottom: 2em;
+}
+.men {
+
+	margin-left: 150px;
+	margin-bottom: 0em;
+
+}
+
+.spisok {
+
+	border-bottom: 1px solid grey;
+}
+
+.ab31 {
+	border-bottom: 1px grey;
+	line-height: 1;
+
+}
+
+.perv {
+	border-bottom: 1px solid grey;
+	font-size: 20px;
+}
