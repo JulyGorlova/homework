@@ -1,0 +1,401 @@
+.main {
+	
+	background-color: #f9f9f9;
+}
+
+				.menutop1:hover { background-color: #3e3e3e; 
+								  border-left: 1px 
+								  solid #838383;
+								  border-right: 1px 
+								  solid #838383;
+								}
+
+				.menutop2:hover { background-color: #3e3e3e; 
+								  border-left: 1px 
+								  solid #838383;
+								  border-right: 1px 
+								  solid #838383;
+								}
+
+				.menutop3:hover { background-color: #3e3e3e; 
+								  border-left: 1px 
+								  solid #838383;
+								  border-right: 1px 
+								  solid #838383;
+								}
+
+				.menutop4:hover { background-color: #3e3e3e; 
+								  border-left: 1px 
+								  solid #838383;
+								  border-right: 1px 
+								  solid #838383;
+								}
+
+
+						.menuleft1:hover {
+
+							background-color: #f9f9f9;
+						}
+
+						.menuleft2:hover {
+
+							background-color: #f9f9f9;
+						}
+
+						.menuleft3:hover {
+
+							background-color: #f9f9f9;
+						}
+
+						.menuleft4:hover {
+
+							background-color: #f9f9f9;
+						}
+
+						.menuleft5:hover {
+
+							background-color: #f9f9f9;
+						}
+
+						.menuleft6:hover {
+
+							background-color: #f9f9f9;
+						}
+
+
+.secondgraund {
+	width:1064px;
+	height: 950px;
+	background-color: #ffffff;
+	border-left: 1px solid #dbdbdb;
+	border-right: 1px solid #dbdbdb;
+	box-shadow: 0 0 5px;
+	margin-left: 155px;
+	margin-right: 155px;
+}
+
+.logo{
+	padding: 30px 0 0 50px;
+	margin-bottom: 40px;
+	width: 145px;
+	height: 40px;
+	font-size: 40px;
+	font-family: tahoma;
+}
+
+.menutop {
+	width: 960px;
+	height: 40px;
+	display: inline-block;
+	margin-left: 50px;
+	background-color: #5c5c5c;
+	
+}
+
+.menutop1  {
+
+	width: 140px;
+	height: 40px;
+	margin-left: 50px;
+	text-decoration: color: #000000;
+	float: left;
+	padding: center;
+	background: #5c5c5c;
+}
+
+.menutop2 {
+
+	width: 140px;
+	height: 40px;
+	text-decoration: color: #000000;
+	float: left;
+	padding: center;
+	background: #5c5c5c;
+}
+
+.menutop3 {
+
+	width: 140px;
+	height: 40px;
+	text-decoration: color: #000000;
+	float: left;
+	padding: center;
+	background: #5c5c5c
+}
+
+.menutop4 {
+
+	width: 140px;
+	height: 40px;
+	float: left;
+	padding: center;
+	background: #5c5c5c;
+}
+
+		.menutop1 a {
+			
+			line-height: 40px;
+			padding-left: 30px;
+			font-size: 20px;
+			color: #ffffff;
+			font-family: times;
+			text-decoration: none;
+		}
+
+		.menutop2 a {
+
+			padding-left: 30px;
+			line-height: 40px;
+			font-size: 20px;
+			color: #ffffff;
+			font-family: times;
+			text-decoration: none;
+		}
+
+		.menutop3 a {
+
+			padding-left: 30px;
+			line-height: 40px;
+			font-size: 20px;
+			color: #ffffff;
+			font-family: times;
+			text-decoration: none;
+		}
+
+		.menutop4 a {
+
+			padding-left: 30px;
+			line-height: 40px;
+			font-size: 20px;
+			color: #ffffff;
+			font-family: times;
+			text-decoration: none;
+		}
+
+.menuleft {
+
+	width: 240px;
+	height: 240px;
+	margin: 50px;
+}
+
+
+.menuleft1 {
+
+	text-decoration: none;
+	width: 240px;
+	height: 40px;
+	padding: 0 auto;
+	border: 1px solid #c8c8c8;
+}
+			
+
+.menuleft2 {
+
+	width: 240px;
+	height: 40px;
+	border: 1px solid #c8c8c8;
+}
+
+.menuleft3 {
+
+	width: 240px;
+	height: 40px;
+	border: 1px solid #c8c8c8;
+}
+
+.menuleft4 {
+
+	width: 240px;
+	height: 40px;
+	padding: 0 auto;
+	border: 1px solid #c8c8c8;
+}
+
+.menuleft5 {
+
+	width: 240px;
+	height: 40px;
+	border: 1px solid #c8c8c8;
+}
+
+.menuleft6 {
+
+	width: 240px;
+	height: 40px;
+	border: 1px solid #c8c8c8;
+}
+
+				.menuleft1 a {
+
+						color: #000000;
+						line-height: 40px;
+						font-size: 20px;
+						margin-left: 25px;	
+						text-decoration: none;
+				}
+
+				.menuleft2 a {
+
+						color: #000000;
+						line-height: 40px;
+						font-size: 20px;
+						margin-left: 25px;	
+						text-decoration: none;
+				}
+
+				.menuleft3 a {
+
+						color: #000000;
+						line-height: 40px;
+						font-size: 20px;
+						margin-left: 25px;	
+						text-decoration: none;
+				}
+
+				.menuleft4 a {
+
+						color: #000000;
+						line-height: 40px;
+						font-size: 20px;
+						margin-left: 25px;	
+						text-decoration: none;
+				}
+
+				.menuleft5 a {
+
+						color: #000000;
+						line-height: 40px;
+						font-size: 20px;
+						margin-left: 25px;	
+						text-decoration: none;
+						
+				}
+
+				.menuleft6 a {
+
+						color: #000000;
+						line-height: 40px;
+						font-size: 20px;
+						margin-left: 25px;	
+						text-decoration: none;
+				}
+
+.img {
+
+	width: 680px;
+	height: 400px;
+	float: right;
+	margin-right: 50px;
+	margin-top: 50px;
+	border: 1px solid #c8c8c8;
+	
+}
+
+.maintext{
+
+width: 680px;
+height: 160px;
+float: right;
+margin-top: 40px;
+margin-right: 50px;
+float: right;
+font-size: 20px;
+line-height: 25px;	
+}
+
+
+.menudown {
+	width: 960px;
+	height: 40px;
+	margin-left: 50px;
+	margin-top: 450px;
+	background-color: #e1e1e1;
+
+				}
+
+		.punkt1  {
+
+			width: 140px;
+			height: 40px;
+			margin-left: 50px;
+			text-decoration: color: #000000;
+			float: left;
+			padding: center;
+			background: #e1e1e1;
+		}
+
+		.punkt2 {
+
+			width: 140px;
+			height: 40px;
+			text-decoration: color: #000000;
+			float: left;
+			padding: center;
+			background: #e1e1e1;
+		}
+
+		.punkt3 {
+
+			width: 140px;
+			height: 40px;
+			text-decoration: color: #000000;
+			float: left;
+			padding: center;
+			background: #e1e1e1;
+		}
+
+		.punkt4 {
+
+			width: 140px;
+			height: 40px;
+			text-decoration: color: #000000;
+			float: left;
+			padding: center;
+			background: #e1e1e1;
+		}
+
+		.lastinfo {
+			width: 180px;
+			height: 40px;
+			text-decoration: color: #000000;
+			float: right;
+			padding: center;
+			background: #e1e1e1;
+
+		}
+
+						.punkt1 a {
+						line-height: 40px;
+						color: #000000;
+						font-family: times;
+						text-decoration: none;
+					}
+
+					.punkt2 a {
+						line-height: 40px;
+						color: #000000;
+						font-family: times;
+						text-decoration: none;
+					}
+
+					.punkt3 a {
+						line-height: 40px;
+						color: #000000;
+						font-family: times;
+						text-decoration: none;
+					}
+
+					.punkt4 a {
+						line-height: 40px;
+						color: #000000;
+						font-family: times;
+						text-decoration: none;
+					}
+
+					.lastinfo {
+						line-height: 40px;
+						color: #000000;
+						font-family: times;
+						text-decoration: none;
+					}
