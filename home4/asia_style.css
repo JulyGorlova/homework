@@ -1,0 +1,220 @@
+body {
+
+	background-image: url(https://pp.vk.me/c627828/v627828193/35594/7skpCP-DZlc.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #0c739f;
+    border-spacing: inherit;
+}
+
+.main {
+    
+	margin: 0 auto;
+	background-color: #fff;
+	width: 1000px;
+	
+    margin-bottom: 20px;
+    overflow: hidden;
+    box-shadow: 0 0 50px rgba(0,0,0,1.5);
+	
+
+}
+
+.head {
+    position: relative;
+    height: 205px;
+   
+}
+
+.head p {
+    
+    color: #128aa7;
+    font-size: 16px;
+    position: absolute;
+    left: 125px;
+    z-index: 2;
+    float:left;
+	padding-top: 130px;
+}
+.logo {
+   
+    position: absolute;
+    height: 205px;
+    z-index:1;
+	float: left;
+}
+
+.contacts {
+    
+    color: #128aa7;
+    font-size: 14px;
+    padding-top: 10px; 
+    padding-right: 25px;
+    float:right;
+    line-height: 1.5   
+}
+
+.contacts a {
+    
+    
+    text-decoration: none;
+}
+
+.country {
+    
+    position: absolute;
+    left: 455px;
+    right: 5px;
+    float: right;
+    top: 135px;
+}
+
+.flag {
+    
+    display: block;
+    width: 70px;
+    float: left;
+    font-size: 14px;
+    margin: 10px;
+  	}
+
+.flag a {
+    
+    padding: center;
+}
+
+.flag a{
+    text-decoration: none;
+    padding: 0 center;
+}
+
+.menu{
+    
+    margin-top: -4px;
+    height: 25px;
+    background-color: #333333;
+    border-top: 1px solid #cacbcb;
+    border-bottom: 1px solid #000;
+    box-shadow: 0px 1px 4px;
+    position: relative;
+    z-index: 5;
+            
+}
+
+.menu li{
+    
+    position: relative;
+    float: left;
+    padding: 5px 30px;
+    list-style: none;  
+    display: block;
+            
+}
+
+.menu li:hover{
+    
+    text-decoration: underline;
+}
+
+.menu a{
+    
+    text-decoration: none;
+    display: block;
+    color: #fff;
+}
+
+.menu ul li ul{
+    
+    position: absolute;
+    left: -99999px;
+    background-color: #333333;
+    
+}
+
+.menu ul li ul a{
+    
+    white-space: nowrap;
+    display: block;
+    color: #fff;
+    
+}
+
+.menu ul li ul a:hover{
+    
+    text-decoration: underline;
+}
+
+.menu ul li:hover ul{
+    
+    left: 0;
+    padding-top: 5px;
+}
+
+
+.back {
+    
+    background-image: url(picture/clmn.png);
+    float: left;
+    width: 1000px;
+}
+
+.menuleft {
+    width: 210px;
+    padding-left: 15px;
+    float: left;
+}
+
+.menuleft a {
+    width: 30px;
+    text-decoration: none;
+    line-height: 1.8;
+    color: #424c43;
+    font-size: 17px;
+}
+
+.topword a {
+    
+    font-size: 23px;
+    text-decoration: none;
+    font-weight:600;
+    padding-left: 25px;
+}
+
+.menuright {
+    
+    width: 210px;
+    float: right;
+}
+
+.menuright a {
+    
+    text-decoration: none;
+    color: #424c43;
+    font-size: 15px;
+    line-height: 1.5;
+    padding-left:15px;
+    
+}
+.menuright .topnew {
+    
+    font-weight:600;
+    font-size: 23px;
+    color: #424c43;
+    padding-left: 50px;
+}
+
+
+.middle{
+    
+    width: 580px;
+    float:left;
+}
+
+.futer{
+clear: both;
+position: relative;
+font-size: 12px;   
+color: #fff;
+margin-left: 45%;
+padding-bottom: center center;
+}
