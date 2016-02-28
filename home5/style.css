@@ -1,0 +1,218 @@
+body {
+    
+    background-image: url(https://pp.vk.me/c627728/v627728193/33b9e/qDiKachw4ws.jpg);
+    background-size: cover;
+    background-repeat: none;
+    border-spacing: inherit;
+    height: 975px;
+    @font-face {
+    font-family: 'helveticaneuecyrlight';
+    src: url('helveticaneuecyr-light-webfont.eot');
+    src: url('helveticaneuecyr-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('helveticaneuecyr-light-webfont.woff2') format('woff2'),
+         url('helveticaneuecyr-light-webfont.woff') format('woff'),
+         url('helveticaneuecyr-light-webfont.ttf') format('truetype'),
+         url('helveticaneuecyr-light-webfont.svg#helveticaneuecyrlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+   
+}
+
+.head {
+   background-color: #075190;
+    height: 40px;
+    width: 100%; 
+    
+}
+
+.headmenu {
+    
+    float: right;
+    width: 620px;
+    
+}
+
+
+.list li {
+    
+    display:block;
+    margin-right: 15px;
+    height: 40px;
+    display: block;
+    float: left;
+    
+}
+
+.headmenu a {
+    
+    display: block;
+    text-decoration: none;
+    color:#60b5ed;
+    font-family: "helveticaneuecyrlight", "Geneva CY","DejaVu Sans",Sans-serif;
+    font-size: 12px;
+    line-height: 40px;
+    padding: 0 center;
+    
+        
+}
+
+.headmenu li:hover{
+    
+    background-color: #4eabda;
+    border-color: #4eabda;
+    
+    
+}
+
+.headmenu a:hover{
+    line-height: 40px;
+    color: #fff;
+}
+
+headmenu i {
+    
+    color: #fff;
+}
+
+.headmenu:after {
+
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+
+}
+
+.cadastre {
+    
+    margin: 7% auto 0;
+    width: 560px;
+    height: 50px;
+    background: rgba(0,0,0,0.5);
+    color:white;
+}
+
+.cadastre p {
+    font-size: 25px;
+    font-family: "helveticaneuecyrlight", "Geneva CY","DejaVu Sans",Sans-serif;
+    line-height: 50px;
+    padding-left: 200px;
+}
+
+.line {
+    
+    display: block;
+    position:absolute;
+    left: 85px;
+    height: 400px;
+    width: 285px;
+    margin-top: 15px;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    border-top: 2px solid;
+    border-top-color: rgba(6,6,6,0.5);
+    
+    
+    
+}
+.partofmainmenu {
+    
+    position: relative;
+    width: 560px;
+    height: 500px;
+    background: rgba(0,0,0,0.5);
+    margin: 3px 395px 0;
+}
+
+.fb {
+    margin-top: 15px;
+    margin-left: 150px;
+    background-image: url(img/fb.png);
+    border: none;
+}
+
+.textform {
+    
+    position: absolute;
+    top: 50px;
+    left: 65px;
+    height: 305px;
+    width: 285px;
+}
+
+.form {
+    
+    width: 285px;
+    padding-top: 20px;
+}
+
+.form input {
+    
+    width: 285px;
+    height: 35px;
+    background-color: #000;
+    font-family: "helveticaneuecyrlight", "Geneva CY","DejaVu Sans",Sans-serif;
+    font-size: 12px;
+    color: #fff;
+    padding: 10px;
+    border-color: #000;
+    border-bottom-color: #000;
+}
+input:focus {
+    
+  background-color: #1b5288;
+  border-color:  #1b5288;
+  border-radius: 3px 3px 3px 3px;
+  box-shadow: 0 0 30px #689bcc;
+}
+
+
+.youbike {
+    
+    position: absolute;
+    top: 365px;
+    left:5px;
+    margin: 15px 100px 0;
+    padding-left: 70px;
+    font-family: "helveticaneuecyrlight", "Geneva CY","DejaVu Sans",Sans-serif;
+    font-size: 12px;
+    color: #ccc;
+}
+
+.clip {
+    
+    position: absolute;
+    top: 405px;
+    left:5px;
+    margin-top: 15px;
+    margin-left: 210px;
+    background: #2e7bc4;
+    border-radius:  5px;
+    line-height: 30px;
+    border-color: #2e7bc4;
+    font-family: "helveticaneuecyrlight", "Geneva CY","DejaVu Sans",Sans-serif;
+    font-size: 12px;
+    color: #fff;
+    width: 150px;
+}
+
+.lastword {
+  
+  position: absolute;
+  top: 453px;
+  left:5px;
+  width: 300px;
+  margin-top: 15px;
+  margin-left: 115px; 
+  color: #ccc;
+  font-family: "helveticaneuecyrlight", "Geneva CY","DejaVu Sans",Sans-serif;
+  padding-left: 20px;
+  text-align: center;
+  font-size: 10px;
+  padding: 20pxS;
+  
+}
