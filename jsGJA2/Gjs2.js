@@ -10,21 +10,22 @@ while (group.length < 5) {
 } 
 
 var leng = group.length;
-var name;
+var GroupName;
 var i;
 
 var UserName = prompt("Введите Ваше имя?", ''); 
 
-for (i = 0; i < leng; i++) {
-  name = group [i];
-  console.log (name);
-  console.log (UserName);
-  if (name == UserName) {
+var name = group.indexOf(UserName);
+
+if ( name == -1) {
        
-       alert ( UserName+ ', это космос, Детка!');
-     break;
-   } 
+     alert ( UserName+ ', Вас нет у нас!');
+       
+} else {
+       
+     alert ( UserName+ ', это космос, Детка!');
+}
+    
 
     
     
-}
