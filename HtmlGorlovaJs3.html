@@ -1,0 +1,28 @@
+<!DOCTYPE>
+<html lang="en">
+		<head>
+			<meta charset="UTF-8">
+			<title>Чё то кодим..</title>
+			<link rel="stylesheet" href="bootstrap.min.css">
+			
+			
+		</head>
+        <body>
+           
+            <script src="copy.js"></script>
+            <script src="jquery-2.2.2.min.js"></script>
+            <script type="text/javascript">
+    $(document).ready(function(){
+    var box = $("#container");
+    if(box.size()>0){
+            if (document.createStyleSheet){
+                document.createStyleSheet(box.childen().attr('id')+'-style.css');
+            }
+            else {
+                $("head").append($("<link rel='stylesheet' href='"+box.childen().attr('id')+"-style.css' type='text/css' media='screen' />"));
+            }
+        }
+    });
+</script>
+        </body>
+</html>
